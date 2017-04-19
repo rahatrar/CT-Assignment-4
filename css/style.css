@@ -1,0 +1,335 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+
+nav{
+	text-align: right;
+}
+nav ul{
+margin: 0;
+    padding: 0;
+}
+nav ul li {
+	    list-style: none;
+    display: inline-block;
+}
+nav ul li a{    
+	color: #000;
+text-decoration: none;
+font-size: 20px;
+padding: 40px 0 0px 15px;
+text-transform: uppercase;
+display: block;
+
+}
+nav ul li a:hover{
+	color: #00aeef;
+}
+
+button{
+	height: 38px;
+    font-size: 16px;
+    background: #00aeef;
+    border-radius: 5px 5px;
+    overflow: hidden;
+
+}
+
+
+.wrapper {
+	width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.top {
+	background:#000;
+	padding: 5px;
+}
+
+.social {
+	text-align: left;
+width: 50%;
+float: left;
+}
+
+.social ul {
+	margin: 0;
+    padding: 0;
+}
+
+.social ul li {
+	    list-style: none;
+    
+    display: inline-block;
+}
+.social ul li a {
+	  text-align: right;
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+
+.email {
+	width: 50%;
+float: right;
+text-align: right;
+color: #fff;
+
+}
+
+.logo{
+float: left;
+max-width: 50%;
+
+}
+
+.logo img {
+	width: 100px;
+    padding-top: 5px;
+}
+
+
+.banner {
+	background: url(../images/pexels-photo-277477.jpeg.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner h1{
+display: inline-block;
+margin-top: 150px;
+color: #fff;
+text-transform: uppercase;
+font-size: 55px;
+text-align: center;
+margin-bottom: 0;
+
+
+}
+
+.banner span{
+	color: #00aeef;
+}
+
+.Amount{
+display: block;
+    height: 30px;
+    width: 140px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.dot {
+display: block;
+    background-color: #00aeef;
+    border-radius: 5px;
+    width: 100px;
+    margin-top: 2px;
+    height: 30px;
+    margin-bottom: 150px;
+    font-size: 16px;
+}
+
+.what h1{
+ont-size: 35px;
+}
+
+.what hr{
+color: #00aeef;
+}
+
+.what p{
+margin-bottom: 70px;
+font-size: 25px;
+}
+.support {
+	padding-bottom: 70px;
+}
+
+.box {
+    height: 250px;
+    width: 246px;
+    float: left;
+    margin: 2px;
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.box i{
+        color: #00aeef;
+    font-size: 50px;
+    margin-top: 8px;
+    cursor: pointer;
+}
+.box h2{
+        font-size: 20px;
+    margin-top: 20px;
+}
+.box p{
+        font-size: 20px;
+    margin-top: 17px;
+    color: rgba(0, 0, 0, 0.74);
+}
+
+.about-us {
+	background: #F5F5F5;
+	overflow: hidden;
+}
+.about-us hr{
+	color: #F5F5F5;
+}
+.about-us h1{
+	font-size: 35px;
+}
+
+.about-us p{
+font-size: 20px;
+}
+
+.txt {
+	max-width: 70%;
+	float:left;
+	overflow: hidden;
+}
+
+.txt p{
+	margin-right:20px;
+	overflow: hidden;
+}
+
+
+.vol {
+	float: left;
+	width: 30%;
+	background-color:#00aeef;
+	margin-top: 25px;
+	padding-bottom: 10px;
+}
+
+.vol h3{
+	color: #FFF000;
+font-size: 25px;
+margin-top: 51px;
+
+}
+
+.y{
+	background: url(../images/sponsor-a-child-Sonali-Bangladesh.jpg);
+	height: 250px;
+    width: 33.33%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.y h5{
+color: #F5F5F5;
+font-size: 30px;
+text-align: center;
+
+
+}
+
+.dotf{
+background: #FFF000;
+display: block;
+border-radius: 5px;
+width: 100px;
+margin-top: 2px;
+height: 30px;
+margin-bottom: 35px
+font-size: 15px;
+
+}
+
+.d{
+	height: 38px;
+font-size: 16px;
+background: #00aeef;
+border-radius: 5px 5px;
+overflow: hidden;
+margin-left: 125px;
+
+}
+
+.map {
+	background: #F5F5F5;
+	overflow: hidden;
+padding-top: 15px;
+
+}
+
+
+.m{
+	height: 250px;
+    width: 33.33%;
+    float: left;
+    box-sizing: border-box;
+padding-left: 5px;
+}
+.topf {
+	background: #222222;
+	color: white;
+	padding: 25px;
+}
+
+.topf ul {
+	margin: 0;
+    padding: 0;
+}
+
+.topf ul li {
+	    list-style: none;
+    
+    display: inline-block;
+}
+.topf ul li a {
+	  text-align: right;
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topf i{
+	color: #fff;
+}
+
+.topd {
+	background: #1D1D1D;
+}
+
+.n{
+	text-align: right;
+	width: 50%;
+	float: right;
+}
+.n ul{
+margin: 0;
+    padding: 0;
+}
+.n ul li {
+	    list-style: none;
+    display: inline-block;
+}
+.n ul li a{    
+	color: #fff;
+text-decoration: none;
+font-size: 15px;
+text-transform: uppercase;
+display: block;
+padding-left: 15px;
+
+}
+.n ul li a:hover{
+	color: #00aeef;
+}
+.copyright {
+	float: left;
+	width: 50%;
+color: white;
+}
